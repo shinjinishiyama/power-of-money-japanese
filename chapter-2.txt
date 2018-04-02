@@ -1,0 +1,539 @@
+第2章: お金とは何か？
+Chapter 2: What Is Money?
+
+
+
+
+
+もし子供が、一見自明のように見えるこの問いをあなたに投げかけてきたら、その答えをうまく説明できずに、途方に暮れてしまう自分に驚くかも知れません。
+If a child were to ask you this question – the answer to which is something seemingly so obvious – you might be surprised to find yourself at a loss to explain it in depth. 
+
+あなたは財布の中から印のついた紙切れを取り出すか、あるいはスマホやコンピュータの画面（何かしらお金に関するアカウントにログインしているものと仮定して）をその子供に見せるかも知れません。
+You might reach into your wallet and take out a piece of paper with symbols on it, or show them your phone or computer screen (assuming you were logged into a money account of some sort). 
+
+しかしもしそうしたならば、きっとあなたはそのような試みが不十分であることに気づかされるでしょう。なぜなら、それはお金の使い方を実演しているだけであって、その核心となる定義については触れていないからです。
+But if you were to do so, you would likely realize that your efforts fall short, as you are only pointing to a demonstration of money, not addressing its core definition. 
+
+*お金とは本当は何なのか*という問いは、実は子供じみたものでも何でもなく、それを装った大人向けの問いなのです。
+It turns out that asking *what money really is* is not a childish question at all – but something deceptively adult. 
+
+私達のほとんどにとっては、お金の定義というものは私達が認知する世界の外に属するものであり、私達はその本質を一度も理解することなく一生を終えるのかも知れません。
+For most of us, its definition lives at the outskirts of our awareness and we may spend our entire lives never grasping its nature.
+
+
+
+
+
+核心となる定義 / The Core Definitions
+
+
+
+
+
+お金は、その実存的および哲学的な核心において二つの定義を持っています。一つは単純でありながら進化を経てきたもの、もう一つは物質主義と財産の継承を生み出すものです。
+Money at its existential and philosophical core has two definitions – one that is both as evolved as it is simple, and another that breeds materialism and devolution. 
+
+当然のことながら、私達にとってなじみがあるのは後者ですので、そちらから始めたいと思います。
+Unsurprisingly, it is the latter with which most of us are familiar, and so we begin with that.
+
+
+
+
+
+お金の定義 #1: 基本バージョン / Money Definition #1: the base version
+
+お金とは、私達の欲望が満たされることを約束するものである。
+Money is the promise of our desires satisfied.
+
+
+
+
+
+硬貨や紙幣やスクリーン上の残高といったものがしばしばお金であるとして指されますが、それらは実のところ単に象徴的なお金の表現に過ぎないのです^3。
+While things like coins, bank notes and screen balances are often pointed to as being money, they are in truth just the symbolic representations of money^3. 
+
+もし「欲望が満たされる」という約束が背後に無かったなら、紙幣は印字された紙切れに過ぎず、硬貨は（普通は価値の低い）金属に刻印がされているだけのものに過ぎません。
+Without the promise of ‘desires being satisfied’ behind it, a bank note is nothing more than an inked piece of paper and a coin is nothing more than a (usually base) metal with an imprint. 
+
+これらを皆が欲しがるのは、それ自身に物質的な価値があるからではなく、それが表す無形のものに価値があるからです。
+These things are coveted not because of what they are physically, but the intangible thing that they represent.
+
+お金があれば、*欲しいもの* - 私達が欲するありとあらゆるもの - を手に入れられると私達は信じています。
+With money, we believe we can get what we want - whatever it is we desire. 
+
+もちろん「幸せはお金では買えない」とか「愛はお金では買えない」といった格言やスローガンを持ち出すことはできるでしょうが、腹の底からこれを信じる人は多くはありません。
+Of course we may tell ourselves saying and slogans like ‘money can’t buy happiness’ or ‘money can’t buy love’ – but few people viscerally believe this. 
+
+もし私達が愛や幸せを（たとえほんの少しでも）お金によって得ることができないと本当に信じていたなら、私達の世の中における振る舞いは現在のものとは大いに異なるものとなっていたでしょう。
+If we truly believed we couldn’t acquire love and happiness (even a little bit) with money, our behavior in the world would likely be vastly different that it is today.
+
+
+
+
+
+お金は、欲望を満足させるという約束として、（アメとムチの比喩において）究極的なアメであり、どんな量のムチでもこれに真に勝ることができません。
+Money, as the promise of wants satisfied, is the ultimate carrot – that with which no amount of sticks can every truly compete. 
+
+Mayer Rothschildはこのことに気づき、そのため次のような有名な言葉を残しています:
+Mayer Rothschild realized this, which is why he famously said:
+
+
+
+
+
+「私に一国のお金を管理する権限を与えよ、さすれば私は誰が法律を作ろうと関知しない。」
+“Give me control of a nation's money and I care not who makes the laws.”
+
+
+
+
+
+Rothschildはお金の持つ力を理解しており、この知識を利用して何世代にもわたる権力の継承に成功したのです。
+Rothschild understood the power of money and with this knowledge was able to build a multi-generational dynasty. 
+
+お金を支配することで得た彼の力は、お金によって支配されている人々を、その重要性とメカニズムについて無知なままにしておくことで（彼の直接の子孫、あるいは単に彼の遺産を相続した人の手によって）維持されてきました。
+His power through mastering money (whether by his physical descendants or simply inheritors of his legacy) has been maintained by keeping those who are controlled by it ignorant of its importance and mechanisms.
+
+
+
+
+
+独裁者や横暴な政治指導者は、歴史を通じて暴力によって大衆を囲い込み支配してきましたが、こういった試みはいつか必ず暴力的な大混乱によって転覆されます。
+While dictators and strongmen have used brute force throughout the ages to corral and control the masses, these efforts are always eventually undermined by violent upheaval. 
+
+人々を攻撃的に一方向に押し込めておいて、彼らがやがて押し返してくることを想定しないわけにはいかないのです。
+You cannot push the people aggressively in one direction without expecting that they will eventually push back. 
+
+暴力と脅しによって働かされる屋内奴隷は、常に脱走や反乱のリスクの下にあります。
+House-slaves who are pressed into service by force and threat always remain at risk to escape or rebel.
+
+
+
+
+
+Rothschildが気づいたのは、もしお金 - つまり欲望を満足させるという約束 - を支配する力を手に入れれば、人々を自分の命令に従う気にさせることができるということでした。たとえその命令が究極的には彼ら自身の利益に反するものであったとしてもです。
+What Rothschild realized was that if you control money – the promise of wants satisfied – you can motivate people to do your bidding even if it’s ultimately against their best interests. 
+
+これは途方も無い力であり、どんな暴力的な武器や脅しによってもたらされる力よりも大きなものです。
+This is an enormous power, greater than any brute force weapon or threat thereof can confer upon its owner. 
+
+実のところ、この力はあまりにも強大であるため、それを人々の手に委ねることは、腐敗と厄災を招き入れるに等しい行為なのです。
+In fact, this power is so great that to keep it in the hands of men is to invite corruption and disaster.
+
+
+
+
+
+お金によって、完璧な屋内奴隷を作り出すことができます。
+With money, one can create the perfect house-slave. 
+
+奴隷となった人間は、捕らわれの身から脱出する方法を夜ごと練る代わりに、より多くのお金を稼ぎ、自分の望むあらゆる「モノ」を手に入れることを
+を夢見るようになります。ただしその望みのモノの中に、本当の意味での自由はもちろん含まれていません - それは今や取るに足らないものと見なされているのです。
+Rather than scheming at night over ways to escape captivity, he instead dreams of acquiring more money and ‘stuff’ that will satisfy all of his wants - except of course for true freedom which is now seen as of insignificant importance. 
+
+彼を取り巻く世界の内なる真の本質に触れる代わりに、精神の繋がりを弱め、搾取に対して脆弱にさせる物質主義に彼は夢中になってしまいます。
+Rather than connecting with the true inner nature of the world around him, he is entranced by a materialism that weakens his connection to spirit and makes him vulnerable to exploitation. 
+
+これが私達が今日生まれ落ちた世界の有り様なのです - これらのメカニズムを支配しているように見える人々にとってさえも。
+This is the world into which we have all been born – even those who find themselves seemingly at the helm of these mechanisms. 
+
+奴隷の所有者自身が、より大きな意味での真実に気づくことを妨げる意識の持ち方に隷属させられているという事実は、最も見つかりにくい形で隠された秘密なのです - つまり、ありふれた風景の中に隠されているのです。
+That the masters are themselves slaves to a mode of awareness which keeps them from realizing broader truths is a secret hidden in the best possible place to remain undiscovered - plain sight.
+
+
+
+
+
+お金の定義 #2: シンプルでありながら洗練された形式 / Money Definition #2: the simple yet refined form
+
+お金とは、人々の間の公平な取引を助けるための道具である。
+Money is a tool that facilitates equitable trade between humans.
+
+
+
+
+
+人類は有史以来ずっと（そしてそれ以前からも多少は）交易に従事してきました。
+Humanity has been engaged in trade for all of recorded history (and then some). 
+
+考古学者がしばしば文明の発生初期の指標として「古代の交易ルート」に目を向けるのは、偶然ではないのです。
+It’s no coincidence that archaeologists often look to ‘ancient trade routes’ as the earliest markers of civilization. 
+
+最もシンプルな形態の社会のようなものにおいてさえ、異なる人間は異なるリソースへのアクセスを有していました。
+Even in the simplest forms of societal existence, different people have access to different resources. 
+
+なので、人間がこうしたリソースを交換したいという動機を持つようになったのは、自然なことでしかありません。
+It is only natural then that humans developed the drive to trade these resources. 
+
+何が「フェア」で互恵的であるかということについての観念を人間が一般的に持っているということは、我々が種として生得的に持っている尊い側面を証明しています。
+That humans generally have a concept of what is ‘fair’ and mutually beneficial speaks to higher innate aspects of our species.
+
+
+
+
+
+お金に対する認識をこのように持つ - つまりフェアな取引を助けるための道具だとして認識する - と、お金から連想される多くの罪悪（全部ではないにしても）、つまり「諸悪の根源」という見方は、はがれ落ちていきます。
+When money is appreciated in this way – as a tool to facilitate fair trade – many (if not most) of the ills associated with money (as the ‘root of all evil’ for instance) fall away. 
+
+そういうわけなので、多数の人々が一番目の定義に感情的に同意するのを変えることは、どれだけ議論や論争を重ねても無理だということは認めるとしても、本論文では未来の希望を描き、また本質を説明するという目的のために、私達は二番目の定義により忠実に従うことにします。
+As such, while we acknowledge that no amount of discussion or debate can change the fact that many people viscerally subscribe to the first definition, for the purposes of aspiration and elucidation we will adhere more closely to the latter definition.
+
+
+
+
+
+あなたの経歴（そして経済理論にどの程度触れたか）によっては、このお金の定義があまりにも機能的に広範囲にわたるのではないかという疑問を既に持ったかも知れません。
+Depending on your background (and exposure to economic theories) you may already be questioning this money definition as being functionally too broad. 
+
+いかにもその通りですが、しかしそれは基本的な感覚を表現するために敢えてそのままにしたのです。
+Indeed it is, but was purposefully left so to express the basic sentiment. 
+
+これを洗練させてより確かで実際的な定義に至ることは可能ですし、これからそれを行います。
+We can and will refine this to arrive at a more robust workable definition. 
+
+そうするために私達はまず基本に帰り、お金というものを必要としないある一つの社会についてのシナリオから考察を始めます。
+We will do this by going back to basics, and starting with the one societal scenario where money is not necessary.
+
+
+
+
+
+基本に立ち帰る / Back to Basics
+
+
+
+
+
+もしあなたとあなたの直接の家族が一つの牧場で生計を立てていると仮定して、しかも完全な自給自足を達成しているだけでなく、自分たちでは賄えないものを何一つ欲しがらないとしたら、あなたはお金をまったく必要としないでしょう。
+If you and your immediate family were to live on a farm and not only be entirely self-sufficient, but have no desire for anything that you couldn’t provide for yourselves, then you wouldn’t need money at all. 
+
+もっと簡単に言えば、あなたは誰かと取引をする必要性を持ち得ません。
+Even more simply, you wouldn’t need to trade with anyone else. 
+
+母親と父親と子供達という「伝統的な」家族を前提とするならば、親が労働の負担を振り分け、その収穫を家族全員で平等にシェアできるでしょう。
+Assuming it was a ‘traditional’ family of mother, father and kids, then the parents would dole out work responsibilities, and the family could all share evenly in the benefits.
+
+
+
+
+
+えーと、実は、完全に平等というわけではありません。
+Well, actually, not entirely evenly. 
+
+結局のところ、あらゆるモノを家族の構成員の一人一人にきっかり均等に分け与えることは、現実的でないだけでなく、おそらく最適でないのです。
+After all, giving an exact equal portion of everything to each family member would not only be impractical, but probably sub-optimal. 
+
+赤ちゃんの寝室の大きさは、両親の寝室と同じであるべきでしょうか？
+Should the baby’s bedroom be as big as the parent’s bedroom? 
+
+夕食のテーブルにおいて、全員が体の大きさ（と好き嫌い）に関係無く全く同じ分量の食べ物を与えられるべきでしょうか？おそらく違うでしょう。
+Should everyone at the supper table be given an exact equal portion of food, despite body sizes (and appetites) ranging widely? Probably not. 
+
+しかし家族が大方において仲良くやっているということを前提とすれば、こういった小さな矛盾については目をつむり折り合いをつけることが一般的には可能でしょう。
+But assuming the family more-or-less gets along, these small discrepancies can generally be looked past and worked through. 
+
+どんな労働がなされる必要があるか、そしてその恩恵をどう共有するかということについて、全員が（多かれ少なかれ）合意しています。
+Everyone (more-or-less) agrees on what chores need to get done, and how to share the benefits amongst themselves. 
+
+このシナリオにおいてお金は必要ではありません - 取引というものが存在しない生活です^4。
+Money is unnecessary in this scenario - a life without trade.^4
+
+
+
+
+
+ところがもしその家族が、外の世界の人々から物やサービスを手に入れたいとしたら、話はもっと複雑になります。
+However, if the family wants to acquire goods or services from people in the outside world, things get more complicated. 
+
+相手に「ブツ」を分けてくれるよう丁寧にお願いすることはもちろんできますが、このアプローチではたぶんすぐに行き詰まってしまうでしょう。
+They can of course politely ask others for ‘stuff’, but this approach is likely to hit a dead-end quickly. 
+
+結局のところ、何らかの形での価値交換をせずに、外部の他者が「ブツ」を自分に分け与えてくれることに頼り続けることはできないのです（たとえどれだけ丁寧にお願いしようとも）。
+After all, one cannot consistently rely upon outsiders giving ‘stuff’ to you without some sort of value exchange (and no matter how politely you ask). 
+
+これが、私達の生きる世界についての話に近づく出発点になります - つまり取引の存在する世界です。
+This is now beginning to approach a description of the world in which we live – a world with trade.
+
+
+
+
+
+物々交換の世界へ /　Enter Barter
+
+
+
+
+
+取引に参加する最もシンプルな方法は、物々交換です。
+The simplest way to engage in trade is through barter. 
+
+物々交換とは単に、何かしらの品物やサービスを他の品物やサービスと交換することです。
+Barter is simply the exchanging of some goods and services for other goods and services. 
+
+しかし物々交換には特有の弱点があり、より大きな規模の（そして長期にわたる）経済に拡大することができません。
+But barter has limitations of its own that prevent it from being scalable in a larger economy (and over time). 
+
+そのいくつかの例をざっと見ていきましょう：
+Let’s quickly run through a few of them:
+
+
+
+
+
+物々交換で取引される品物は、不確定な価値を持つかも知れない。
+Bartered items may have uncertain value.
+
+
+
+
+
+Since barter items have value mainly in their perceived utility (how the ‘buyer’ thinks they can use and/or appreciate the item), the perspective of the person you are looking to swap with matters greatly. 
+
+If the other person doesn’t have immediate use or interest in the particular item you’re trying to barter, you’re out of luck. 
+
+Furthermore, if the item you’re looking to barter has an expiration date (say for instance, a liter of milk), then you only have a limited window within which to try and trade it (i.e., before it spoils).
+
+
+
+
+
+Bartered items are (generally) not divisible and therefore, not easily transactable in terms of relative value.
+
+
+
+
+
+If you wanted to buy a loaf of bread and all you had was a Van Gogh painting, you’d be in a tricky position. You wouldn’t want to swap the painting (presumably worth a fortune) for a single loaf of bread. But you also can’t “break off a tiny piece” of the painting to buy the bread. Because the painting is not divisible (without dramatically reducing its worth) – it’s by and large an all or nothing situation.
+
+
+
+
+
+  Bartered items may have other attributes making them difficult to use in general trade.
+
+
+
+
+
+Away from the examples we’ve already used above, there are more that can be problematic. For one, how about transportation of your goods? If you had to barter for everything, then you would presumably be carrying all your ‘stuff’ with you wherever you went intending to trade. This could quickly become very costly and cumbersome. After all, what good is a Van Gogh painting to someone else if by the time you brought it to market it’s been damaged from the journey?
+
+
+
+
+
+And so, we come to a solution to these problems of barter: money.
+
+
+
+
+
+Our Final (Functional) Definition of Money
+
+Money is a thing that through physical and/or symbolic representation solves some (if not all) of the limitations of trade using the barter system.
+
+
+
+
+
+This is admittedly a mouthful, so let’s walk through it in pieces to break it down.
+
+
+
+
+
+Money is a thing...
+
+
+
+
+
+Being ‘a thing’ is the only requirement to be money – so long as the qualifying criteria are met. Where this thing comes from or what it looks like doesn’t matter. It could be something a child crafted in the sandbox. It could be something sent from a far off inter-planetary dimension as a nebulous thought-form. It could even be a series of zeros and ones in a complex computer network. The point is, if this thing satisfies the rest of the definition’s criteria, then this thing may be considered money. Furthermore, if this thing does a better job than say, Dollars, Gold or Bitcoin in satisfying the rest of the definition, then this thing is better money than those alternatives.
+
+
+
+
+
+...that through physical and/or symbolic representation...
+
+
+
+
+
+All this is saying is that the thing which we are considering as money is ultimately represented by
+something else.
+
+
+
+
+
+Odds are that if I offered to give you a piece of paper with a bunch of ink on it you wouldn’t get too excited. But you would likely be much more interested if I told you that this paper had the precise color of green and exact letters, numbers and symbols to make it look like a 100-hundred-dollar bill. When you hand someone a dollar bill it’s treated with value because through the physical item handled, some other value is being represented – namely the perceived money of dollars. Whether you handle physical paper currency or transfer balances on-line from one account to another, you are ultimately moving symbolic representations of some ‘thing’ (dollars in our case).5
+
+
+
+
+
+...solves some (if not all) of the limitations of trade using the barter system.
+
+
+
+
+
+This last piece of the definition is purely functional - it’s all about solving problems of barter-trade, and implicitly leads us to an interesting conclusion:
+
+
+
+
+
+  There can be many types of money, and of varying qualities.
+
+
+
+
+
+Using a money of ‘lower quality’ (presumably solving fewer of the problems of barter-trade) can be done, but it exposes you (sooner or later) to problems that might otherwise be avoided by using ‘higher-quality’ money.6 Let’s refer to how well something satisfies our definition of money as that thing’s ‘moneyness’. Things that express a high degree of ‘moneyness’ may be considered ‘high quality’ or ‘sound’ money.
+
+
+
+
+
+Moneyness
+
+
+
+
+
+So what makes for ‘high quality money’? What are the traits that allow some thing to solve the problems of barter-trade, and therefore be considered sound money – having a high level of moneyness? It turns out there are 3 main characteristics which when well-addressed, generally cover the scope of problems associated with barter-trade.
+
+
+
+
+
+Characteristic 1 of 3: Serve as a store of value
+
+
+
+
+
+There are two primary aspects to being a store of value:
+
+
+
+
+
+1) The thing we use as money can’t be perishable.
+Remember our first example of barter, using a liter of milk as the bartered item? Well milk is not a stable store of value because it changes state very readily. It might start out as milk, but depending on circumstances, it can spoil, turn to butter, or even turn to cheese. Whatever we use as money, in order to be a stable store of value must not expire, corrode or decay.
+
+
+
+
+
+2) It has to be of a sufficiently limited supply.
+When it comes to valuing some thing as a potential candidate for money, this is especially critical. If new units of the thing can be produced frequently enough, then its usefulness as money may deteriorate drastically. A bit of new supply may be ok7, but thousands of years of (repetitive) human history has proven that when you go beyond that you are sowing the seeds of a money system’s demise. We will explore this critically important concept more fully in the next section.
+
+
+
+
+
+One additional note here regarding the concept of store of value is worth making. Price volatility is not a component of the Store of Value moneyness assessment. Price volatility makes broad adoption of something as money more challenging than it might otherwise be, but this is a separate issue8. Thought of differently, one could rightly argue that the volatility of Bitcoin in terms of fiat currency might just as easily be interpreted as the volatility of fiat currencies in relation to Bitcoin. Considering how relatively poorly fiat currencies pass moneyness tests, this has significant intuitive and theoretical appeal. Of course, the main difference between the two perspectives is that currently, the bulk of ‘price points’ for assets are denominated in fiat currencies, giving the illusion of stability in fiat over short time horizons. If and as this changes (with sellers of goods and services pricing their wares in Bitcoin) we will see this fall away.
+
+
+
+
+
+Characteristic 2 of 3: Serve as a unit of account.
+
+
+
+
+
+This is a trickier sounding one, but for all intents and purposes, we can keep it simple by answering this question:
+
+
+
+
+
+Can you measure ‘stuff’ in terms of this thing that you are proposing to use as money?
+
+
+
+
+
+We can do this with dollars. Whether it’s a wide-screen television or a steak dinner, we can represent all sorts of ‘stuff’ in terms of dollars. The television might be represented (or valued) at 1,200.99 dollars, and the steak dinner might be accounted for as 24.95 dollars.
+
+
+
+
+
+It may seem that we could even do the same with milk! After all, couldn’t we say the television is worth 436.72 gallons of milk, and the steak dinner is worth 9.07 gallons of milk?
+
+
+
+
+
+Well, we could try, but we’d run into some problems (away from milk not being a stable store of value). We might ask what type of milk? Whole, low-fat, or skim milk? Were the cows free-range or factory milked? Are all the milks plain unflavored, or are some chocolate milk?
+
+
+
+
+
+In order for something be a suitable ‘unit of account’, that thing must be uniform. Any unit of the ‘stuff’ you are using as money must be exactly the same as another other unit of the ‘stuff’, with the only acceptable differences being quantity or magnitude. There is no functional difference between a $1 bill I receive as change from a local shopkeeper and a $1 dollar bill I receive upon withdrawing it from my bank account.
+
+
+
+
+
+Furthermore, the thing that we use as money must be able to be fractionally divided such that the sum of all its components exactly equals the value of them all put together. Yet again, this probably sounds either silly or confusing, so let’s revisit a previous example we used when talking about barter – a Van Gogh painting (while noting that classic art generally serves as a poor unit of account). You cannot break a Van Gogh painting worth $100 million in half and expect to sell each piece for $50 million. Odds are, you will have simply destroyed most of the value. The pieces of a broken Van Gogh painting do not equal their value put together. Alternatively, if you have 100 of 1 dollar bills, you would have no issue (from a value perspective) of exchanging them for a single 100-dollar bill.
+
+
+
+
+
+Characteristic 3 of 3: Serve as a generalized medium of exchange
+
+
+
+
+
+The thing to be used as money, (or its functional representative, whether that be paper bills or electronic accounts) must be practical and easy to use for trade.
+
+
+
+
+
+Fine art (to stay with the earlier example) is generally a poor generalized medium of exchange because in order to protect its value, it must be protected from the elements, which requires (expensive) effort. It’s also not very easy to transport, and as we’ve already seen can’t be used to ‘make change’.
+
+
+
+
+
+There are all sorts of features that make for a better medium of exchange – transportability, durability, value density to just name a few. We’ll go through some more detail on these when we examine gold and then cryptocurrencies.
+
+
+
+
+
+It may seem at this point that many different things could be used as money, and used successfully. However, upon examination it turns out that very few things in our world ‘tick the boxes’ of serving as high quality money.9
+
+
+
+
+
+While this basically covers all the aspects of moneyness, I would like to re-draw your attention to one particular characteristic - store of value – and more specifically to how this may be determined by a money’s supply. While all other elements of moneyness are valid in their own right, the corruption inherent in the current monetary system hinges on this one aspect. There are effectively two possibilities for money regarding supply - both with very different implications and consequences.
+
+
+
+
+
+Something used as money can either be of a fixed (or near fixed) supply, or an un-fixed supply of money.
+
+
+
+
+
+The full consequences of having a fixed money supply have rarely if ever been realized throughout human history – at least not for extended periods of time. This is because the temptation for those in power to assert control over the money supply (and therefore bestow upon themselves the ability to create more units of money at will) is generally irresistible.
+
+
+
+
+
+Nevertheless, instances throughout history where a fixed-supply approach to money was honored have generally been periods of relative economic and social balance. This is in stark contrast to the alternative scenario of an un-fixed money supply which history has shown over and again always ends in repression, violence and despair. While we will not spend much time now discussing the direct details and implications of having a fixed money supply, we can for now assert that most if not all of the problems of having an un-fixed money supply (which we are about to discuss in greater depth) can instead be avoided. It turns out that avoiding disaster is quite a strong selling point.

@@ -1,0 +1,393 @@
+第1章: はじめに / Introduction
+
+
+
+
+
+背景 / Background
+
+
+
+
+
+私がビットコインという言葉を見かけるようになったのは約4年ほど前（訳注：2017年から数えて）のことで、大抵の場合それは私がよく見る金融関係のウェブサイトのコメント欄の書き込みでした。
+I had begun to read about Bitcoin roughly 4 years ago - mostly in the comments sections of financial websites that I favored. 
+
+それらの書き込みは全体として、ビットコインの狂信者たちが熱く語っているというような類いで、私はそれを面白おかしく眺めつつも、真面目に取り合うことはしませんでした。
+On the whole, the posts I read seemed like the ramblings of fanatics, and so while they were entertaining, I dismissed them from serious consideration. 
+
+当時から激しい急騰を見せていたビットコインが、情報技術が発達した現代のバブルであることは明らかでした。
+Surely the massive run in Bitcoin’s price was just today’s computer-age-version of a bubble scheme. 
+
+自分も純粋に投機の目的でいくらか買ってみようかと少しだけ検討しましたが、結局は買いませんでした。ギャンブルは私の性に合わなかったのです。
+I thought briefly about buying some as pure speculation, but decided against it. I’ve never been much of a gambler.
+
+
+
+
+
+当時の私は、株式市場や債券市場に長いことうんざりさせられていました。過去数年の間に、マーケットはすっかりつまらないゲームに成り下がっていました。
+The stock and bond markets had long since frustrated me - it had for the past several years become a sucker’s game. 
+
+ファンダメンタル評価にもはや意味はありませんでした。テクニカル分析ですら無意味でした。唯一の関心事は、中央銀行と一部の「事情通」の人間たちが次に何を決定するかでした。
+Fundamental valuation no longer mattered. Even technical analysis no longer mattered. All that mattered was what Central Banks and those ‘in the know’ decided to do. 
+
+ゲームが不正に操作されていることは、日を追うごとに公然の秘密となっていました。そして、それに取って代わるものは存在しないように思われました。私は憂鬱でした。
+It was an increasingly open secret that the game was rigged – and there didn’t seem to be any alternatives. It was depressing. 
+
+やろうと思えば、この（中央銀行の動きの予想を試みるという）ゲームに参加し続けることもできたでしょうが、何か違う気がしました。ゲームに加担する気にはどうしてもなれなかったので、私は傍観者を決め込むことにしました。
+I could try and play-along (by trying to anticipate the Central Banks’ activities), but it didn’t feel right. I didn’t really want to be part of it, so I proverbially ‘sat on the sidelines’.
+
+
+
+
+
+私がブロックチェーン関係の話に再び聞き耳を立てるようになったのは、今年（訳注：2017年）初めにJPモルガンが（マイクロソフトやインテル等と一緒に）「イーサリアム・アライアンス」へ加盟することを発表した時でした。
+It wasn’t until earlier this year, when JP Morgan announced its ‘Ethereum Alliance’ (along with Microsoft and Intel) that my ears perked up again. 
+
+これらは潤沢なリソースを持った社会的影響力のある大企業であり、そんな彼らがブロックチェーン技術に関心を持っている。
+These were major and influential corporations with significant resources - and they were interested in blockchain technologies. 
+
+これは何かあるに違いない、と思いました。でも一体、何だろう？
+They must see something I thought – but what?
+
+
+
+
+
+私はリサーチを始めました - ブロックチェーンとは何か、そしてそれはどのような仕組みで動くのか。
+I began doing my own research, and investigating blockchain – what it is, and how it worked. 
+
+私はビットコインの「波に乗る」機会についてはおそらく逸したのでしょうが、ここ最近で次々と誕生しているビットコイン以外の暗号通貨（アルトコイン）については、まだ乗り遅れてはいないのかも知れないと考えました。
+I assumed that I had probably ‘missed the boat’ on Bitcoin, but thought that maybe I hadn’t yet missed the boat on these other crypto-currencies that were springing up. 
+
+かなり多数のアルトコインがあり、それらを調べていく中で、私は自分の得意とするファイナンスの知識と演繹的な思考法を駆使すれば、それらを分類・整理し、その適正な価格を査定することができそうだと分かりました。
+There were quite a few of them, and as I investigated, I found that I could use my knowledge of finance and deductive reasoning to break them down and arrive at valuations.
+
+
+
+
+
+私はまずイーサリアムから調べ始めるつもりでしたが、例の「スマートコントラクト」という概念について深掘りしようとした矢先に、別のアルトコインが私の関心を捉えました - リップルです。
+I was going to begin with ETH, but before I could dig into the concept of ‘smart-contracts’, a different Alt-coin got my attention – Ripple. 
+
+私の拙速な「封筒の裏に書いた」計算式からですら、リップルの相場が当時のものよりもはるかに高いものになり得ることは明らかでした。しかもそこでは、ブロックチェーンなどという深遠な概念に立ち入る必要性さえありませんでした。
+My quick ‘back of the envelope’ math showed me it could be easily worth a lot more than then current levels – and I didn’t even need to get into the more esoteric concepts of blockchain. 
+
+私は手早く分析を仕上げて、新しく開設した私のブログに投稿しました。まあまあ良い評判を得たところで、ようやく私はイーサリアムの調査に戻る準備ができていました。
+I knocked out an analysis and posted it on my new blog. It got a reasonably favorable response, and I was ready to dive back into ETH.
+
+
+
+
+
+ところがそこでまた私は別のコインを見つけました - そのコインは、マーケティング手法が詐欺を疑うのに十分なほど怪しげだったので、私はそれをよくよく精査してみたいという気になりました。
+But then I noticed another coin – one whose marketing struck me as sufficiently suspicious such that I wanted to examine it more closely. 
+
+「このコインについてのレポートを手早くやっつけて、それが終わったら今度こそイーサリアムに戻ろう」、私はそう自分に言い聞かせました。
+“I’ll just do this quick report” I told myself, “and then get back to ETH”. 
+
+しかしそれが終わった後で今度は、ブログの読者からメールで、あるコインについてレポートして欲しいというリクエストが届きました - TenXです。というわけで、私はもう一つのレポートを仕上げました。
+But after that it was an email from a blog-reader asking me about another coin – TenX. So I knocked out another treatment. 
+
+私の調査を妨害するものが、突如としてたくさん現れました。新しいアルトコインが、詐欺師によるものであれ、れっきとした起業家によるものであれ、日々誕生していました。
+Suddenly there were lots of distractions. New Alt-coins were springing up every day – from scammers and genuine entrepreneurs alike. 
+
+明らかに、ブロックチェーンという概念には重要な*何か*があり、それがこのような動き全体を駆り立てていました。しかしそれは具体的に一体何なのか？
+There was clearly *something* to this concept of blockchain that was feeding all this activity. But what exactly was it?
+
+
+
+
+
+私は基本的な原則に立ち返り、何が起こっているのかを理解しようとすることに決めました。
+I decided to go back to first principles, and try to understand what was happening. 
+
+*ブロックチェーンに関するあらゆる物事の本当の意味*を私は知りたくなったのです。なぜならその理解が無いままこの分野でどんな投資をしても、それは単なるギャンブルと変わらないからです。
+I wanted to know what it *all really meant* – as I felt that without a grasp on that, any investing I did in this space would be nothing more than gambling. 
+
+そしてまた、より大きな何かが起こっているような気が私にはしていました。それについても、よりクリアに理解したいと思いました。
+I could also feel that there was something bigger happening, and I wanted to see it more clearly. 
+
+どうやってこの境地に至ったのか、それは自分でも良く分かりません - 
+I don’t know exactly how it began coming together – 
+
+例えるなら、私は過去10年かそれ以上の時間をかけて、このジグソーパズルのピースを集め続けていましたが、ふと「この問題を理解するぞ」と決心したその時、それぞれのパズルのピースが自然と収まるべき所に収まった、という感じでしょうか。
+in some ways it seems that I had been collecting the pieces to this jigsaw puzzle for the last ten years or more - but once I made it my intention to try and ‘figure this stuff out’, the pieces began falling into place.
+
+
+
+
+
+しかしそれは、圧倒されるほど手ごわい作業でした。最終的にどんな文章になるかは、私の頭の中でははっきりと見えており、そしてそれを仕上げるには多大な時間と労力が必要となるであろうことも、私には分かっていました。
+It was a daunting task though. I could see the finished product in my mind’s eye and I knew it would take time and a lot of energy. 
+
+少なくとも数ヶ月、あるいはそれ以上かも - 特に、夜や週末の空いた時間にしかそれに取り組めないという事情を考慮すれば。
+Months at least, maybe longer – especially considering it would have to be done on nights and weekends. 
+
+しかし一方で、私はほとんど毎日、ビットコインやアルトコインについて論ずる記事を目にしましたが、そのどれもが、私に言わせると的外れでした。
+But it seemed like every day I saw another article discussing Bitcoin and Altcoins and in my view, missing the point. 
+
+さらに悪いことに、ビットコインを失敗させることに対する動機を潜在的に持っている機関から出されるレポートやサマリーは、控えめに言って全くアンフェア、ひどい場合は不誠実でミスリーディングなものでした。
+Even worse, I watched as institutions with a vested interest in undermining Bitcoin produced reports and summaries that seemed at best simply unfair, and at worst disingenuous and misleading. 
+
+私は、背後にある大きな物語についての確信をますます深めていましたが、それを確かなものにする方法はただ一つしかありませんでした - この文章を書き上げて、世界中とシェアすることです。
+I felt increasingly clear what the big story *was*, but there would be only one way to truly find out for sure – get this piece done and share it.
+
+
+
+
+
+私はこの論文の執筆に、真心を込めました。この文章が、人々の発想を刺激するのに十分なヒントとなることを、心から願っています。
+I’ve put my heart into this work. It is my sincere wish that it provides the insight sufficient to inspire.
+
+
+
+
+
+3つの核心的な真実 / 3 Core Truths
+
+
+
+
+
+まず大原則として、すべての高度化された社会組織は、お金というもの抜きでは機能しません^1。
+As a rule, all advanced social structures need money to function^1. 
+
+後ほどその理由を説明し、そしてお金とは*根本的に何なのか*について考察しますが、この文章の本来の目的は、単にお金の歴史や機能について解説することではありません。
+We’ll explain the reasons for this as well as explore what money fundamentally *is*, but the intention of this essay is not merely to inform on history and functional definitions. 
+
+そうではなく、この文章の狙いは、以下に述べる3つの核心的な真実への気づきを促すことです:
+Instead, it is to inspire an awareness of three core truths. They are:
+
+
+
+
+
+1) 私達がお金として*何を*使うかという選択は、私達が送る日常生活のあり方の根幹に対して、核心的な影響を与える。
+1) The selection of *what* we use as money has a profound effect on some of the most fundamental ways in which we live our lives.
+
+これは読者にとって妙な、あるいは突飛な記述のようにさえ見えるかも知れませんが、この文章を最後まで読み切った後には、確かにそうだと同意してもらえるものと願っています。
+This may strike you as an odd or even bizarre statement to make, but I hope that by the end of this analysis you will realize and agree its truth.
+
+
+
+
+
+2) 現在のお金のシステムはあまりにもバランスを欠いており、そのために、個々人および集団としての人間の営みを支えるというお金の本来の役割が、ほとんど果たされていない。
+2) Our current system of money is exceedingly imbalanced – and as such does an exceedingly poor job of supporting our individual and collective human journey.
+
+今日の世界のお金のシステムは、内在する邪悪な動機とモラルハザードにまみれており、必然的に社会と政治に不均衡をもたらしています。
+The world’s current monetary system is fraught with perverse imbedded incentives and moral hazards that inevitably lead to massive social and political imbalances. 
+
+現在私達が目にする、地域レベル・国レベル・世界レベルの病の多くは、このような歪んだお金のシステムを使い続けることによって最終的にもたらされる帰結であり、同時発生的なものです。
+Many of the local, national and global ills we see today are the late-stage consequences (and co-incidents) of having such a warped system of money. 
+
+日常会話のレベルでは、私達はこれについて*よく知っています* - 少なくとも一般的な会話でお金というものについて言及する限りにおいては。
+Colloquially, we all *know* this – at least insomuch as we make reference to it in common speech. 
+
+有能な記者なら誰でも、汚職やスキャンダルを追究するには、単に*お金の流れを追いかける*だけで良いということを知っているでしょう。
+Any reporter worth his weight will tell you that when looking to uncover corruption and scandal, you simply need to *follow the money*. 
+
+宗教的な書物も、お金が「あらゆる悪の根源である」と断じることで、同じ意味合いのことを指しています。
+Religious literature points to the same theme when it declares money ‘to be the root of all evil’. 
+
+ひょっとすると、このことを的確に言い表した近代の人物として、20世紀の自動車王Henry Ford氏の右に出る者はいないかも知れません^2: 
+Perhaps no one expressed the sentiment better in modern times than 20th Century Automobile magnate Henry Ford when he said^2:
+
+「この国の人々が、我々の使っている銀行やお金のシステムについて無知あるいは無理解であることは、もしかすると良いことなのかも知れない。なぜなら、もしそうでなかったら、明日の朝を待たずして革命が起きているはずだからである。」
+“It is perhaps well enough that the people of the nation do not know or understand our banking and monetary system, for if they did I believe there would be a revolution before tomorrow morning.”
+
+
+
+
+
+3) 私達は誰もが、この世界を途方も無くポジティブな方向に転換させられるチャンスを与えられている。その方法とは単に、私達が仕方なく受け入れさせられてきた現在のお金の形態とは異なる別の何かを、お金として採用すると決めることである。
+3) We all have an opportunity to transform our world in enormously positive ways, simply by deciding to adopt a form of money different from that which we have been conditioned to accept.
+
+私達の多くは日々、社会を取り巻く悪や不正義を目にし、困惑させられます。
+Many of us are troubled by ills and injustices we see around us in society on a daily basis. 
+
+形の違いはあれ、何かしらの革命を訴える人々は絶えることがありません（もしかすると永遠にそうなのかも知れません）。
+There is no shortage (and perhaps never will be) of those calling for revolution in one form or another. 
+
+私は革命には賛同しません。
+I do not advocate for revolution. 
+
+革命的なアプローチは、社会の番人たる存在の交代を引き起こすだけで、人々を抑圧するシステムそのものから抜け出して進化することにはつながりません。
+A revolutionary approach only breeds a changing of the guard, not growth out of the system of oppression itself. 
+
+最も「成功した」革命においてさえ、抑圧していた側がやがて抑圧されるようになり、抑圧されていた側が抑圧するようになるのです。
+In even the most ‘successful’ revolution the oppressors eventually become the oppressed, and the oppressed the oppressors. 
+
+George Orwellは小説「動物農場」でこのメカニズムを見事に示して見せました。そこでは、搾取されていた側の豚が最終的には搾取していた側の人間と区別のつかない存在になってしまうのです。
+George Orwell beautifully demonstrated this mechanism in his novel Animal Farm where the pigs ultimately become indistinguishable from the men. 
+
+ロックバンド「The Who」は、歌の中でこのことをさらに簡潔に物語っています: 「新しい指導者と会ってみな - 前のヤツと変わりゃしない。」
+The rock band ‘The Who’ expresses the sentiment even more succinctly when they proclaim, “Meet the new boss – Same as the old boss.” 
+
+これは本当の前進ではありません。
+This is not true progress.
+
+
+
+
+
+私は革命ではなく、進化を支持します。
+Instead, I advocate for evolution. 
+
+進化は、現在の状況を誠実かつダイレクトに評価することから始まります - もちろん骨の折れる作業ではありますが、多くの人にとって実現可能なことです。
+Evolution begins with honestly and directly assessing the current situation – a tall order for sure, but achievable for many. 
+
+何らかの形の行動が最終的には取られるかも知れませんが、しかしそれが抵抗ではなく気づきによって生まれたものであるために、それは新たな調和した状態をもたらします - 旧来の無益なサイクルの終わりなき繰り返しではないのです。
+Action may ultimately be taken in some form, but as it was birthed through awareness and not resistance, it leads to a new state of balance – not an endless repetition of the old fruitless cycles. 
+
+ただ単に何か別のものを「お金」として受け入れることに決めるというだけのシンプルな行動によって、私達の世界の進化を手助けすることができるという事実は、私からすれば奇跡としか言いようがありません。
+That we have the ability to facilitate the evolution of our world through an act as simple as deciding to accept something different ‘as money’ is to me, nothing short of miraculous.
+
+
+
+
+
+ビットコイン VS アルトコイン / Bitcoin Vs. Altcoins
+
+
+
+
+
+皮肉にも、この論文のタイトルからももちろんお分かりのように、私はその「乗り逃がした」と考えていたコインに戻ることになりました - つまりビットコインです。
+Ironically, as you no doubt can tell from this piece’s title, I’ve returned to ‘the boat that I thought I had missed’ – Bitcoin. 
+
+この論文では、ビットコインを全ての暗号通貨を代表するものとして論じます。
+In this treatise, I will speak of Bitcoin here as the representative of all Cryptocurrencies. 
+
+アルトコインについては様々な論点があるでしょうが、私の結論（暫定的なものかも知れませんが）は、それらは - 場合によっては途方もなく高騰し（そしてもちろん多くの人々を従来の意味で裕福にし）得るかも知れませんが - ビットコインのエコシステムに補助的な機能を提供するものとして接するのがベストだということです。
+There is much to be said about Alt-coins, but I have reached the (tentative perhaps) conclusion that they – while in some instances may be incredibly valuable (and no doubt may yet make many people wealthy in a traditional sense) – are best approached as providing ancillary functionality to the Bitcoin ecosystem.
+
+
+
+
+
+
+一部の人たちは、（何百種類もの新しいアルトコインが存在することによって証明されるように）いつでも新しい暗号通貨を作り出せることを理由に、（ビットコインを始めとする）どんな一つの暗号通貨の価値も、薄められ置き換えられてしまうことに対して脆弱であると主張していますが、これは間違いです。
+Some people assert that since new crypto-currencies can be created at any time (as evidenced by the hundreds of new alt-coins) that the value of any one (such as Bitcoin) is vulnerable to dilution and displacement. 
+
+なぜならそのような考えは、ただ単に他のアルトコインが新たなマネーサプライを市場に供給することで、「一つあるいはいくつかの」アルトコインがビットコインの支配的な立ち位置を必然的に置き換えるだろう、ということを前提としているからです。
+This is incorrect, as it presupposes that through sheer volume of additional offerings, ‘one or several’ will inevitably displace Bitcoin’s dominance. 
+
+ひとたびお金の持つ力に対する正しい認識が得られたならば、ビットコインがその相対的な立ち位置と役割を維持するためには、現在のビットコインのプロトコルとそれを支えるアーキテクチャの中に既に含まれ、グローバルなお金として機能する上で最低限必要な技術的要件だけでなく、その普遍性、マーケット・ポジション、そして理念が不可欠だということが明白になるでしょう。
+Once an appreciation for the power of money is gained, it will be clear that not only are the minimum technical requirements to serve as global money already contained within the current Bitcoin protocol and support architecture, but its ubiquity, market position, and ethos are sufficient to maintain its relative position and role. 
+
+ただしこれは、他のアルトコインに重要性や重大な役割が無いという意味ではありません。
+This is not to say that other coins lack importance or critical functions. 
+
+実際、ビットコインの普及にまつわるセキュリティ上の懸念のために、私は極めて重要な役割を担っていると感じられるもう一つのアルトコインについての分析をこの論文に含めることになりました。
+In fact, security concerns surrounding Bitcoin’s adoption have led to me include an analysis of one additional Altcoin which I feel has a vital role to play. 
+
+このアルトコインについては、エピローグで論じます。
+I address this other coin in the Epilogue.
+
+
+
+
+
+本論文の構成 / Quick Overview
+
+
+
+
+
+この論文は1章〜10章とエピローグで構成されています。
+This paper is organized into 10 chapters and an Epilogue. 
+
+ストーリーの展開にとって必要なものだけを含めるようにベストを尽くしましたので、
+I’ve done my best to only include pieces that are necessary to the progression of the narrative. 
+
+私としてはこの論文をどの部分も飛ばさずに順番通りに読むようにしていただくことをお勧めします。
+As such, I recommend trying to read it in order without skipping sections. 
+
+たとえ途中で詳細について完全に飲み込めないところがあっても、そのまま読み進めて全てのステップを一度通過することは、理解の大きな助けとなるはずです。
+Even if you don’t absorb all the detail along the way, simply following through all the steps once can inform greatly. 
+
+とはいえ、いくつかの部分（特に5章）はかなり専門的になり、万人向けではありません。
+That being said, some of it (particularly in Chapter 5) gets a bit technical and isn’t for everyone. 
+
+それをとっつきにくいと感じてしまうかも知れない読者のために、より込み入った部分に入るすぐ手前に手短なまとめを、そしてその説明が終わった後に太字のサマリーを含めました。
+For those who might otherwise find it too daunting, I’ve included TLDR/Summaries just prior to diving into the more complicated sections, as well as some bolded summaries after their completion.
+
+
+
+
+
+次章では、単純に見えるかも知れない問いからスタートします - それは「お金とは何か？」です。
+We start our next chapter with what might seem like a simple question - ‘What is Money?’ 
+
+その問いに答えるには、ちょっとした知的探究が必要であることに私達はすぐに気づくでしょう。
+We quickly realize that answering it requires a bit of exploration. 
+
+そこを出発点として、取引、物々交換、そして物々交換がお金の導入によってどのように改善されうるか、ということについて順番に見ていきます。
+From there we walk through the elements of trade, barter, and how barter may be improved upon by introducing money. 
+
+私達はまずお金に関する異なる広義のカテゴリについて論じ、次に私達が今日置かれた状況である、ごく一部のエリート集団によってマネーサプライが管理されるという考え方を導入します。
+We discuss the different broad categories of money, and introduce the concept of the money-supply being controlled by a small elite group, the situation we find ourselves in today.
+
+
+
+
+
+その後、私達は架空の物語を通じて、ゴールド（訳注：通常の意味でのお金との区別を明確にするために、物質としての金をこう呼ぶことにします）をお金として使いながら、最も基本的なお金の形態からより高度な金融の仕組みとその先までを考察していきます。
+We then take an apocryphal story-ride, following the use of gold as money - from its most basic forms to advanced monetary schemes and beyond. 
+
+こうすることで、私達が今日直面している法定不換紙幣のシステムにまつわる諸問題を理解するために必要な、専門的かつ叙述的な文脈を得ることができます。
+Doing this gives us the technical and narrative context necessary to understand the problems we face today with our current fiat money systems.
+
+そしてこれがまさにビットコインそのものの議論へとつながり、そこに私の考える「より大きな全体像」があります。
+This then brings us to a discussion of Bitcoin itself, including what I consider to be the ‘bigger picture’. 
+
+ビットコインの普及を助けるための実践的なアプローチや価格評価の枠組みについて論じた後、最後に結論となるメッセージでこの論文を締めくくります。
+We discuss practical approaches for facilitating Bitcoin adoption, a valuation framework, and finally concluding messages.
+
+
+
+
+
+私はこの論文でアルトコインについて議論することは控えたいと思っていましたが、プライバシーに関する懸念やそれを取り巻くゲーム理論について触れる必要があったため、そうすることになりました。
+While I had wanted to refrain from discussing any Altcoins in this treatise, the need to address privacy concerns and the game theory surrounding it led me to do so. 
+
+エピローグではプライバシーについて議論し、私がビットコインのエコシステムにおいて不可欠だと考えているアルトコインについて、その用途と価格評価を考察します。
+The epilogue discusses privacy and the use/valuation of what I believe to be an integral altcoin in the Bitcoin ecosystem.
+
+
+
+
+
+免責事項 / Disclaimer
+
+
+
+
+
+この論文は投資のアドバイスとして意図されたものではありません。
+This paper is not intended as investment advice. 
+
+本論文の中で価格評価や投資についての好機を見出すことがあるかも知れませんが、私が示す論拠に価値があるかどうかや、それをあなた自身の個人的な生活の中で具体的な行動として昇華させるべきかどうか、そして行動するとしたらどのようにすべきか、という問題は読者であるあなた自身が責任を持って決めることです。
+While there may be opportunities within it to see valuation and investment opportunities, the onus is on you the reader to determine whether the arguments have merit, and if or how you should translate them into action within your own personal life. 
+
+人それぞれで置かれた状況は違いますし、ある人にとっては正しいかも知れないことでも他の人にとっては間違っているかも知れません。
+Everybody’s circumstances are different, and what might be right for one person may be wrong for another.
+
+
+
+
+
+私は（一般にビットコインを買うということを含め）ビットコインの普及を助けるだろうと考えられる実践的なステップについて述べますが、私がカバーしきれなかったかも知れないリスクがたくさんあります。
+While I outline practical steps which I believe will facilitate Bitcoin adoption (including generically buying Bitcoin), there remain many risks that I may not have covered. 
+
+私の仮定のうちの一つあるいは多くが間違いだったと判明するかも知れませんし、予想外の出来事が起こって私が述べるのとは大幅に異なる結末が訪れる可能性はあります。
+One or many of my assumptions may prove incorrect, and unforeseen events could occur resulting in drastically different outcomes than those which I describe. 
+
+私は占い師ではありません。できる範囲で良いので、自分で調べてください。質問してください。知識をつけてください。
+I do not have a crystal ball. To the extent that you can, do your own work. Ask questions. Get informed. 
+
+自分自身が体験することについて、できる限り自分で責任を持つと決めることの重要性は、いくら強調しても強調しすぎることはありません。
+The importance of deciding to be as responsible as you are able to be for your own experience cannot be overstated.
